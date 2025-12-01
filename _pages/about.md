@@ -36,6 +36,14 @@ Mi línea de trabajo aborda el estudio de las comunidades de microorganismos en 
 ---
 ### **Investigadora: Edith Filippini**
 ------
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+
+
+<img src="{{ site.baseurl }}/images/edith.jpg" width="200" style="border-radius: 12px;" alt="Foto de Edith">
+
+
+<div>
+
 Trabajo en ecología de líquenes estudiando cómo se estructuran las comunidades según los diferentes usos del suelo. Actualmente me focalizo en las biocostras del Chaco Seco, estudiando su composición, patrones de distribución y la relación con los rasgos funcionales de la vegetación. Soy una de las coordinadoras del proyecto El Bosque Nativo Vuelve.
 
 Create content & metadata
