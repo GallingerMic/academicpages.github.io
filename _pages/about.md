@@ -50,7 +50,24 @@ Trabajo en ecología de líquenes estudiando cómo se estructuran las comunidade
 </div>
 
 ---
-### **Investigadora: Dra. Romina C. Torres **
+### **Investigadora: Dra. Gabriela García**
+------
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+
+
+<img src="{{ site.baseurl }}/images/gabi.jpg" width="200" style="border-radius: 12px;" alt="Foto de Gabi">
+
+
+<div>
+Mi campo de investigación es el estudio de las fuentes y transformaciones que sufren los elementos en el medio exógeno en un rango amplio de escalas espaciales y temporales. Estos estudios permiten conocer los procesos que condicionan el transporte y la remoción de los elementos del medio acuoso y la formación de depósitos. Para alcanzar estos objetivos, utilizo equipamientos especiales que permiten la caracterización detallada de geomateriales, tales como  XRD, SEM/EDX, EMP, ICPMS, así como técnicas de luz sincrotrón (XAFS, XRF) e isotópicas. Además, muchos de los procesos observados en el campo son simulados en el laboratorio y los resultados obtenidos se utilizan para el modelado geoquímico.
+
+</div>
+</div>
+
+---
+
+### **Investigadora: Dra. Romina C. Torres**
 ------
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
