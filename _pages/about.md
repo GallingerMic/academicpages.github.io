@@ -54,7 +54,7 @@ Líneas de investigación
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
 
-<img src="{{ site.baseurl }}/images/gabi.jpg" width="200" style="border-radius: 12px;" alt="Foto de Gabi">
+<img src="{{ site.baseurl }}/images/gabi.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Gabi">
 
 
 <div>
