@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Grupo de Investigación en Ecología y Microbiología de Suelos"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
