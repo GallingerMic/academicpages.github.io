@@ -26,9 +26,7 @@ Líneas de investigación
 
 <div>
 
-
-
-Mi línea de trabajo aborda el estudio de las comunidades de microorganismos en ambientes extremos desde una perspectiva ecológica, genética y funcional, utilizando técnicas de secuenciación masiva de segunda generación, clonado/Sanger, marcación por hibridación in situ fluorescente y microscopía. Dentro de los ambientes extremos encontramos lagos de la Antártida, más precisamente del archipiélago James Ross, donde estudiamos la diversidad microbiológica de matas microbianas asociadas a estos lagos, su dinámica y la importancia de ciertos grupos como posibles proxies relacionados al cambio climático. La Laguna Negra y Terma los Hornos, en la Puna Catamarqueña, desde una perspectiva geomicrobiológica, intentamos comprender la relación microorganismo-mineral y la señal que estos microorganismos pueden dejar en las rocas como una ventana hacia el pasado y con una mirada astrobiológica. Con cepas de cianobacterias aisladas de la Puna estamos avanzando en el estudio de la resistencia y la remoción del arsénico. Y por último, recientemente hemos comenzado un estudio del efecto del fuego en las comunidades edáficas del bosque Serrano, su dinámica y la detección de posibles microorganismos pirófilos. 
+*Bióloga. Investigadora.* Mi línea de trabajo aborda el estudio de las comunidades de microorganismos en ambientes extremos desde una perspectiva ecológica, genética y funcional, utilizando técnicas de secuenciación masiva de segunda generación, clonado/Sanger, marcación por hibridación in situ fluorescente y microscopía. Dentro de los ambientes extremos encontramos lagos de la Antártida, más precisamente del archipiélago James Ross, donde estudiamos la diversidad microbiológica de matas microbianas asociadas a estos lagos, su dinámica y la importancia de ciertos grupos como posibles proxies relacionados al cambio climático. La Laguna Negra y Terma los Hornos, en la Puna Catamarqueña, desde una perspectiva geomicrobiológica, intentamos comprender la relación microorganismo-mineral y la señal que estos microorganismos pueden dejar en las rocas como una ventana hacia el pasado y con una mirada astrobiológica. Con cepas de cianobacterias aisladas de la Puna estamos avanzando en el estudio de la resistencia y la remoción del arsénico. Y por último, recientemente hemos comenzado un estudio del efecto del fuego en las comunidades edáficas del bosque Serrano, su dinámica y la detección de posibles microorganismos pirófilos. 
 
 </div>
 </div>
@@ -44,7 +42,7 @@ Mi línea de trabajo aborda el estudio de las comunidades de microorganismos en 
 
 <div>
 
-Trabajo en ecología de líquenes estudiando cómo se estructuran las comunidades según los diferentes usos del suelo. Actualmente me focalizo en las biocostras del Chaco Seco, estudiando su composición, patrones de distribución y la relación con los rasgos funcionales de la vegetación. Soy una de las coordinadoras del proyecto El Bosque Nativo Vuelve.
+*Bióloga. Docente e investigadora.* Trabajo en ecología de líquenes estudiando cómo se estructuran las comunidades según los diferentes usos del suelo. Actualmente me focalizo en las biocostras del Chaco Seco, estudiando su composición, patrones de distribución y la relación con los rasgos funcionales de la vegetación. Soy una de las coordinadoras del proyecto El Bosque Nativo Vuelve.
 
 </div>
 </div>
@@ -60,7 +58,7 @@ Trabajo en ecología de líquenes estudiando cómo se estructuran las comunidade
 
 
 <div>
-Mi campo de investigación es el estudio de las fuentes y transformaciones que sufren los elementos en el medio exógeno en un rango amplio de escalas espaciales y temporales. Estos estudios permiten conocer los procesos que condicionan el transporte y la remoción de los elementos del medio acuoso y la formación de depósitos. Para alcanzar estos objetivos, utilizo equipamientos especiales que permiten la caracterización detallada de geomateriales, tales como  XRD, SEM/EDX, EMP, ICPMS, así como técnicas de luz sincrotrón (XAFS, XRF) e isotópicas. Además, muchos de los procesos observados en el campo son simulados en el laboratorio y los resultados obtenidos se utilizan para el modelado geoquímico.
+*Geóloga. Docente e investigadora* Mi campo de investigación es el estudio de las fuentes y transformaciones que sufren los elementos en el medio exógeno en un rango amplio de escalas espaciales y temporales. Estos estudios permiten conocer los procesos que condicionan el transporte y la remoción de los elementos del medio acuoso y la formación de depósitos. Para alcanzar estos objetivos, utilizo equipamientos especiales que permiten la caracterización detallada de geomateriales, tales como  XRD, SEM/EDX, EMP, ICPMS, así como técnicas de luz sincrotrón (XAFS, XRF) e isotópicas. Además, muchos de los procesos observados en el campo son simulados en el laboratorio y los resultados obtenidos se utilizan para el modelado geoquímico.
 
 </div>
 </div>
@@ -77,7 +75,8 @@ Mi campo de investigación es el estudio de las fuentes y transformaciones que s
 
 
 <div>
-Me interesa particularmente el estudio de los procesos de regeneración de las especies leñosas y la respuesta de las especies a los disturbios. Además, participo en proyectos de extensión y educación ambiental.
+
+*Bióloga. Docente e investigadora.* Me interesa particularmente el estudio de los procesos de regeneración de las especies leñosas y la respuesta de las especies a los disturbios. Además, participo en proyectos de extensión y educación ambiental.
 
 **Markdown generator**
 
