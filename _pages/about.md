@@ -16,7 +16,7 @@ Líneas de investigación
 - Aplicaciones de secuenciación (16S, ITS, metagenómica)
 - Bioinformática y análisis de comunidades microbianas
 
-### **Directora: Cecilia E. Mlewski**
+## **Directora: Cecilia E. Mlewski**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
@@ -34,7 +34,7 @@ Mi línea de trabajo aborda el estudio de las comunidades de microorganismos en 
 </div>
 
 ---
-## **Investigadora: Edith Filippini**
+### **Investigadora: Edith Filippini**
 ------
 Trabajo en ecología de líquenes estudiando cómo se estructuran las comunidades según los diferentes usos del suelo. Actualmente me focalizo en las biocostras del Chaco Seco, estudiando su composición, patrones de distribución y la relación con los rasgos funcionales de la vegetación. Soy una de las coordinadoras del proyecto El Bosque Nativo Vuelve.
 
