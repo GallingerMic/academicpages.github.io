@@ -20,7 +20,7 @@ Líneas de investigación
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
-<img src="{{ site.baseurl }}/images/Ceci-Mlewski.jpg" width="200" style="border-radius: 12px;" alt="Foto de Cecilia">
+<img src="{{ site.baseurl }}/images/Ceci-Mlewski.jpg">
 
 <div>
 
