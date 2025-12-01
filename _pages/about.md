@@ -28,15 +28,15 @@ Líneas de investigación
 
 
 
-**Cecilia E. Mlewski** Mi línea de trabajo aborda el estudio de las comunidades de microorganismos en ambientes extremos desde una perspectiva ecológica, genética y funcional, utilizando técnicas de secuenciación masiva de segunda generación, clonado/Sanger, marcación por hibridación in situ fluorescente y microscopía. Dentro de los ambientes extremos encontramos lagos de la Antártida, más precisamente del archipiélago James Ross, donde estudiamos la diversidad microbiológica de matas microbianas asociadas a estos lagos, su dinámica y la importancia de ciertos grupos como posibles proxies relacionados al cambio climático. La Laguna Negra y Terma los Hornos, en la Puna Catamarqueña, desde una perspectiva geomicrobiológica, intentamos comprender la relación microorganismo-mineral y la señal que estos microorganismos pueden dejar en las rocas como una ventana hacia el pasado y con una mirada astrobiológica. Con cepas de cianobacterias aisladas de la Puna estamos avanzando en el estudio de la resistencia y la remoción del arsénico. Y por último, recientemente hemos comenzado un estudio del efecto del fuego en las comunidades edáficas del bosque Serrano, su dinámica y la detección de posibles microorganismos pirófilos. 
+Mi línea de trabajo aborda el estudio de las comunidades de microorganismos en ambientes extremos desde una perspectiva ecológica, genética y funcional, utilizando técnicas de secuenciación masiva de segunda generación, clonado/Sanger, marcación por hibridación in situ fluorescente y microscopía. Dentro de los ambientes extremos encontramos lagos de la Antártida, más precisamente del archipiélago James Ross, donde estudiamos la diversidad microbiológica de matas microbianas asociadas a estos lagos, su dinámica y la importancia de ciertos grupos como posibles proxies relacionados al cambio climático. La Laguna Negra y Terma los Hornos, en la Puna Catamarqueña, desde una perspectiva geomicrobiológica, intentamos comprender la relación microorganismo-mineral y la señal que estos microorganismos pueden dejar en las rocas como una ventana hacia el pasado y con una mirada astrobiológica. Con cepas de cianobacterias aisladas de la Puna estamos avanzando en el estudio de la resistencia y la remoción del arsénico. Y por último, recientemente hemos comenzado un estudio del efecto del fuego en las comunidades edáficas del bosque Serrano, su dinámica y la detección de posibles microorganismos pirófilos. 
 
 </div>
 </div>
 
 ---
-Site-wide configuration
+## **Investigadora: Edith Filippini**
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Trabajo en ecología de líquenes estudiando cómo se estructuran las comunidades según los diferentes usos del suelo. Actualmente me focalizo en las biocostras del Chaco Seco, estudiando su composición, patrones de distribución y la relación con los rasgos funcionales de la vegetación. Soy una de las coordinadoras del proyecto El Bosque Nativo Vuelve.
 
 Create content & metadata
 ------
