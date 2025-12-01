@@ -21,8 +21,11 @@ Líneas de investigación
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
 <img src="/images/Ceci-Mlewski.jpg" width="200" style="border-radius: 12px;" alt="Foto de Cecilia">
+<img src="{{ site.baseurl }}/images/Ceci-Mlewski.jpg" width="200" style="border-radius: 12px;" alt="Foto de Cecilia">
+
 
 <div>
+
 
 
 **Cecilia E. Mlewski** Mi línea de trabajo aborda el estudio de las comunidades de microorganismos en ambientes extremos desde una perspectiva ecológica, genética y funcional, utilizando técnicas de secuenciación masiva de segunda generación, clonado/Sanger, marcación por hibridación in situ fluorescente y microscopía. Dentro de los ambientes extremos encontramos lagos de la Antártida, más precisamente del archipiélago James Ross, donde estudiamos la diversidad microbiológica de matas microbianas asociadas a estos lagos, su dinámica y la importancia de ciertos grupos como posibles proxies relacionados al cambio climático. La Laguna Negra y Terma los Hornos, en la Puna Catamarqueña, desde una perspectiva geomicrobiológica, intentamos comprender la relación microorganismo-mineral y la señal que estos microorganismos pueden dejar en las rocas como una ventana hacia el pasado y con una mirada astrobiológica. Con cepas de cianobacterias aisladas de la Puna estamos avanzando en el estudio de la resistencia y la remoción del arsénico. Y por último, recientemente hemos comenzado un estudio del efecto del fuego en las comunidades edáficas del bosque Serrano, su dinámica y la detección de posibles microorganismos pirófilos. 
