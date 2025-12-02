@@ -14,8 +14,9 @@ title_separator          : "-"
 name                     : &name "Ecología Microbiana de Ambientes Extremos"
 description              : &description "We are a research group located in Córdoba Argentina. We are interested in studying microoganisms who actually live in soil or biocrusts"
 url                      : https://gallingermic.github.io
-baseurl                  : /academicpages.github.io
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : ""
+repository               : "microext-lab/microext-lab.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
