@@ -13,7 +13,7 @@ title                    : "Ecología Microbiana de Ambientes Extremos"
 title_separator          : "-"
 name                     : &name "Ecología Microbiana de Ambientes Extremos"
 description              : &description "We are a research group located in Córdoba Argentina. We are interested in studying microoganisms who actually live in soil or biocrusts"
-url                      : https://gallingermic.github.io
+url                      : https://microext-lab.github.io
 baseurl                  : ""
 repository               : "microext-lab/microext-lab.github.io"
 
