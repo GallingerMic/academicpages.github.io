@@ -58,7 +58,7 @@ redirect_from:
     <img src="/images/banner6.jpg">
     <img src="/images/banner7.jpg">
     <img src="/images/banner8.jpg">
-    <img src="/images/banner9.jpg">
+    <img src="/images/banner9.JPG">
     <img src="/images/banner10.jpg">
   </div>
 </div>
