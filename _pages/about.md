@@ -17,26 +17,24 @@ redirect_from:
   margin-bottom: 30px;
 }
 
-/* 10 imágenes → ancho total = 1000% */
 .slider-track {
   display: flex;
-  width: 1000%;
-  animation: slide 30s infinite linear; 
+  width: calc(200%); /* duplicado para loop perfecto */
+  animation: slide 30s linear infinite;
 }
 
-/* Ajustá 30s si querés más rápido o más lento */
 .slider-track img {
-  width: 10%;    /* 10 imágenes → cada una ocupa 10% */
+  width: 10%;   /* 10 imágenes → cada una ocupa 10% */
   height: 350px;
   object-fit: cover;
 }
 
 @keyframes slide {
   0%   { transform: translateX(0); }
-  100% { transform: translateX(-900%); } 
-  /* MOSTRAR TODAS LAS IMÁGENES una vez durante el ciclo */
+  100% { transform: translateX(-50%); } /* corre 10 imágenes y engancha el duplicado */
 }
 </style>
+
 
 
 <div class="slider-container">
@@ -51,6 +49,18 @@ redirect_from:
     <img src="/images/banner6.jpg">
     <img src="/images/banner9.JPG">
     <img src="/images/banner10.jpg">
+
+    <img src="/images/banner1.jpg">
+    <img src="/images/banner4.JPG">
+    <img src="/images/banner3.JPG">
+    <img src="/images/banner2.JPG">
+    <img src="/images/banner5.JPG">
+    <img src="/images/banner8.jpg">
+    <img src="/images/banner7.jpg">
+    <img src="/images/banner6.jpg">
+    <img src="/images/banner9.JPG">
+    <img src="/images/banner10.jpg">
+    
   </div>
 </div>
 
