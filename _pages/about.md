@@ -19,7 +19,8 @@ redirect_from:
 
 .slider-track {
   display: flex;
-  animation: slide 120s infinite linear; /* AJUSTÁ LA VELOCIDAD AQUÍ */
+  width: 1000%; /* 10 imágenes → 100% × 10 */
+  animation: slide 30s infinite linear; /* 30s = 3s por imagen */
 }
 
 .slider-track img {
@@ -29,10 +30,20 @@ redirect_from:
 }
 
 @keyframes slide {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-90%); } 
+  0%   { transform: translateX(0); }
+  10%  { transform: translateX(-100%); }
+  20%  { transform: translateX(-200%); }
+  30%  { transform: translateX(-300%); }
+  40%  { transform: translateX(-400%); }
+  50%  { transform: translateX(-500%); }
+  60%  { transform: translateX(-600%); }
+  70%  { transform: translateX(-700%); }
+  80%  { transform: translateX(-800%); }
+  90%  { transform: translateX(-900%); }
+  100% { transform: translateX(0); }
 }
 </style>
+
 
 <div class="slider-container">
   <div class="slider-track">
