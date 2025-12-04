@@ -22,7 +22,7 @@ redirect_from:
 .slider-track {
   display: flex;
   width: 1000%;
-  animation: slide 100s infinite linear;
+  animation: slide 130s infinite linear;
 }
 
 /* Estilo de cada imagen */
