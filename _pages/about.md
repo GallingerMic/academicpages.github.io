@@ -50,16 +50,16 @@ redirect_from:
 
 <div class="slider-container">
   <div class="slider-track">
-    <img src="{{ site.baseurl }}/images/banner1.jpg">
-    <img src="{{ site.baseurl }}/images/banner2.jpg">
-    <img src="{{ site.baseurl }}/images/banner3.jpg">
-    <img src="{{ site.baseurl }}/images/banner4.jpg">
-    <img src="{{ site.baseurl }}/images/banner5.jpg">
-    <img src="{{ site.baseurl }}/images/banner6.jpg">
-    <img src="{{ site.baseurl }}/images/banner7.jpg">
-    <img src="{{ site.baseurl }}/images/banner8.jpg">
-    <img src="{{ site.baseurl }}/images/banner9.jpg">
-    <img src="{{ site.baseurl }}/images/banner10.jpg">
+    <img src="/images/banner1.jpg">
+    <img src="/images/banner2.jpg">
+    <img src="/images/banner3.jpg">
+    <img src="/images/banner4.jpg">
+    <img src="/images/banner5.jpg">
+    <img src="/images/banner6.jpg">
+    <img src="/images/banner7.jpg">
+    <img src="/images/banner8.jpg">
+    <img src="/images/banner9.jpg">
+    <img src="/images/banner10.jpg">
   </div>
 </div>
 
