@@ -8,43 +8,34 @@ redirect_from:
 ---
 
 <style>
-/* Contenedor del slider */
+/* Contenedor */
 .slider-container {
   width: 100%;
-  height: 350px; /* podés aumentar a 450 si querés */
+  height: 350px;
   overflow: hidden;
   position: relative;
-  border-radius: 8px;
+  border-radius: 10px;
   margin-bottom: 30px;
 }
 
-/* El carrusel (todas las imágenes una al lado de la otra) */
+/* Track con el ancho exacto según número de imágenes (10 imágenes = 1000%) */
 .slider-track {
   display: flex;
   width: 1000%;
-  animation: slide 130s infinite linear;
+  animation: slide 120s linear infinite;
 }
 
-/* Estilo de cada imagen */
+/* Imágenes */
 .slider-track img {
-  width: 100%;
+  width: 10%;   /* 1/10 del total */
   height: 350px;
   object-fit: cover;
 }
 
 /* Animación */
 @keyframes slide {
-  0%   { transform: translateX(0); }
-  10%  { transform: translateX(-100%); }
-  20%  { transform: translateX(-200%); }
-  30%  { transform: translateX(-300%); }
-  40%  { transform: translateX(-400%); }
-  50%  { transform: translateX(-500%); }
-  60%  { transform: translateX(-600%); }
-  70%  { transform: translateX(-700%); }
-  80%  { transform: translateX(-800%); }
-  90%  { transform: translateX(-900%); }
-  100% { transform: translateX(0); }
+  0%   { transform: translateX(0%); }
+  100% { transform: translateX(-900%); } /* 10 imágenes → desplazamos 9 */
 }
 </style>
 
