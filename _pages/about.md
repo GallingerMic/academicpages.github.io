@@ -17,30 +17,24 @@ redirect_from:
   margin-bottom: 30px;
 }
 
+/* 10 imágenes → ancho total = 1000% */
 .slider-track {
   display: flex;
-  width: 1000%; /* 10 imágenes → 100% × 10 */
-  animation: slide 30s infinite linear; /* 30s = 3s por imagen */
+  width: 1000%;
+  animation: slide 30s infinite linear; 
 }
 
+/* Ajustá 30s si querés más rápido o más lento */
 .slider-track img {
-  width: 100%;
+  width: 10%;    /* 10 imágenes → cada una ocupa 10% */
   height: 350px;
   object-fit: cover;
 }
 
 @keyframes slide {
   0%   { transform: translateX(0); }
-  10%  { transform: translateX(-100%); }
-  20%  { transform: translateX(-200%); }
-  30%  { transform: translateX(-300%); }
-  40%  { transform: translateX(-400%); }
-  50%  { transform: translateX(-500%); }
-  60%  { transform: translateX(-600%); }
-  70%  { transform: translateX(-700%); }
-  80%  { transform: translateX(-800%); }
-  90%  { transform: translateX(-900%); }
-  100% { transform: translateX(0); }
+  100% { transform: translateX(-900%); } 
+  /* MOSTRAR TODAS LAS IMÁGENES una vez durante el ciclo */
 }
 </style>
 
