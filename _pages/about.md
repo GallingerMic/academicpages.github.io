@@ -7,6 +7,63 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+/* Contenedor del slider */
+.slider-container {
+  width: 100%;
+  height: 350px; /* podés aumentar a 450 si querés */
+  overflow: hidden;
+  position: relative;
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+
+/* El carrusel (todas las imágenes una al lado de la otra) */
+.slider-track {
+  display: flex;
+  width: 1000%;
+  animation: slide 40s infinite linear;
+}
+
+/* Estilo de cada imagen */
+.slider-track img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+}
+
+/* Animación */
+@keyframes slide {
+  0%   { transform: translateX(0); }
+  10%  { transform: translateX(-100%); }
+  20%  { transform: translateX(-200%); }
+  30%  { transform: translateX(-300%); }
+  40%  { transform: translateX(-400%); }
+  50%  { transform: translateX(-500%); }
+  60%  { transform: translateX(-600%); }
+  70%  { transform: translateX(-700%); }
+  80%  { transform: translateX(-800%); }
+  90%  { transform: translateX(-900%); }
+  100% { transform: translateX(0); }
+}
+</style>
+
+<div class="slider-container">
+  <div class="slider-track">
+    <img src="{{ site.baseurl }}/images/banner1.jpg">
+    <img src="{{ site.baseurl }}/images/banner2.jpg">
+    <img src="{{ site.baseurl }}/images/banner3.jpg">
+    <img src="{{ site.baseurl }}/images/banner4.jpg">
+    <img src="{{ site.baseurl }}/images/banner5.jpg">
+    <img src="{{ site.baseurl }}/images/banner6.jpg">
+    <img src="{{ site.baseurl }}/images/banner7.jpg">
+    <img src="{{ site.baseurl }}/images/banner8.jpg">
+    <img src="{{ site.baseurl }}/images/banner9.jpg">
+    <img src="{{ site.baseurl }}/images/banner10.jpg">
+  </div>
+</div>
+
+
 Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas moleculares, experimentación y análisis bioinformáticos para comprender el rol de las comunidades microbianas en ecosistemas naturales y perturbados, especialmente aquellos afectados por incendios. También abordamos el estudio de biocostras, ambientes extremos y procesos biogeoquímicos en sistemas acuáticos y terrestres.
 
 ---
