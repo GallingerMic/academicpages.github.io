@@ -52,9 +52,9 @@ redirect_from:
   <div class="slider-track">
     <img src="/images/banner1.jpg">
     <img src="/images/banner2.JPG">
-    <img src="/images/banner3.jpg">
-    <img src="/images/banner4.jpg">
-    <img src="/images/banner5.jpg">
+    <img src="/images/banner3.JPG">
+    <img src="/images/banner4.JPG">
+    <img src="/images/banner5.JPG">
     <img src="/images/banner6.jpg">
     <img src="/images/banner7.jpg">
     <img src="/images/banner8.jpg">
