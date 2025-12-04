@@ -22,7 +22,7 @@ redirect_from:
 .slider-track {
   display: flex;
   width: 1000%;
-  animation: slide 40s infinite linear;
+  animation: slide 60s infinite linear;
 }
 
 /* Estilo de cada imagen */
@@ -51,7 +51,7 @@ redirect_from:
 <div class="slider-container">
   <div class="slider-track">
     <img src="/images/banner1.jpg">
-    <img src="/images/banner2.jpg">
+    <img src="/images/banner2.JPG">
     <img src="/images/banner3.jpg">
     <img src="/images/banner4.jpg">
     <img src="/images/banner5.jpg">
