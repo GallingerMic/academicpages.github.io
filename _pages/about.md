@@ -8,34 +8,29 @@ redirect_from:
 ---
 
 <style>
-/* Contenedor */
 .slider-container {
   width: 100%;
   height: 350px;
   overflow: hidden;
   position: relative;
-  border-radius: 10px;
+  border-radius: 8px;
   margin-bottom: 30px;
 }
 
-/* Track con el ancho exacto según número de imágenes (10 imágenes = 1000%) */
 .slider-track {
   display: flex;
-  width: 1000%;
-  animation: slide 120s linear infinite;
+  animation: slide 120s infinite linear; /* AJUSTÁ LA VELOCIDAD AQUÍ */
 }
 
-/* Imágenes */
 .slider-track img {
-  width: 10%;   /* 1/10 del total */
+  width: 100%;
   height: 350px;
   object-fit: cover;
 }
 
-/* Animación */
 @keyframes slide {
-  0%   { transform: translateX(0%); }
-  100% { transform: translateX(-900%); } /* 10 imágenes → desplazamos 9 */
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-90%); } 
 }
 </style>
 
